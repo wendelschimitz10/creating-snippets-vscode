@@ -38,5 +38,4 @@ After this, we have two choices - You can clone this repo in this folder, or you
 
 ![image](https://user-images.githubusercontent.com/98092597/165353848-a05d49ff-1f6b-4900-be67-e182dfab990e.png)
 
-<p>You can customize it better than it, you can check in the vscode oficial site. (https://code.visualstudio.com/docs/editor/userdefinedsnippets). You can also change the actual component.</p>
-
+<p>You can customize it better than it, you can check in the vscode oficial site. (https://code.visualstudio.com/docs/editor/userdefinedsnippets).
